@@ -1,0 +1,16 @@
+@charset "UTF-8";
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+  cursor:pointer;
+}
+
+.wrapper {
+	margin : 0 auto;
+}
